@@ -1,0 +1,13 @@
+
+public class TesteReferencia {
+	
+	public static void main(String[] args) {
+		Conta primeConta = new conta();
+		primeConta.saldo = 300;
+		
+		System.out.println("saldo da priemira: " + primeConta.saldo);
+		
+		Conta segundaConta = primeiraConta; 
+	}
+
+}

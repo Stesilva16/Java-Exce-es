@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\stefa\OneDrive\Documentos\Estudos Ste\eclipse - alura\Poliformismo\.metadata\.plugins\org.eclipse.jdt.core
+723383023.index
+1865797976.index
+628345936.index
